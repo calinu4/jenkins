@@ -1,7 +1,0 @@
-
-name:="My hello world"
-version:="1.0"
-scalaVersion:="2.10.6"
-mainClass in Compile:=Some("com.whiteboardcoder.hello.hw")
-
-
